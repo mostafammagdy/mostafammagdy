@@ -37,4 +37,4 @@ Frontend on a local food marketplace. *React, Redux-Saga, Material-UI. Wired up 
 | **Infra** | Monorepos, Vercel, Railway, Jest |
 | **Integrations** | Stripe, PayPal, Cloudinary, Resend |
 
-📫 [LinkedIn](link-here) · 🌐 [Portfolio](link-here) · 📨 [Email](mailto:mostafa.magdy.moussa@gmail.com)
+📫 [LinkedIn]([https://www.linkedin.com/in/mostafa-mohamed-558586155/]) · 🌐 [Portfolio]([https://mostafammoussa.vercel.app/]) · 📨 [Email](mailto:mostafa.magdy.moussa@gmail.com)
