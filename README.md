@@ -7,7 +7,7 @@ A Stella Octangula rotates inside a mandala, and both morph based on the harmoni
 
 *React, raw WebGL2, GLSL, Web Audio API, pitchy for pitch detection.*
 
-[Live demo](link-here) · [Source](link-here)
+[Live demo]((https://sacred-geometry-ivory.vercel.app/)) · [Source](https://github.com/mostafammagdy/sacred-geometry)
 
 *(Pro-tip: Drop a cool GIF of the visualizer right here!)*
 
@@ -37,4 +37,4 @@ Frontend on a local food marketplace. *React, Redux-Saga, Material-UI. Wired up 
 | **Infra** | Monorepos, Vercel, Railway, Jest |
 | **Integrations** | Stripe, PayPal, Cloudinary, Resend |
 
-📫 [LinkedIn]([https://www.linkedin.com/in/mostafa-mohamed-558586155/]) · 🌐 [Portfolio]([https://mostafammoussa.vercel.app/]) · 📨 [Email](mailto:mostafa.magdy.moussa@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-558586155/) · 🌐 [Portfolio](https://mostafammoussa.vercel.app/) · 📨 [Email](mailto:mostafa.magdy.moussa@gmail.com)
