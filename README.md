@@ -37,4 +37,4 @@ React, raw WebGL2, GLSL, Web Audio API, pitchy for pitch detection.
 
 ---
 
-[LinkedIn](link-here) · [Portfolio](link-here) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/mostafa-mohamed-558586155/) · [Portfolio](https://mostafammoussa.vercel.app/) · [Email](mailto:mostafa.magdy.moussa@gmail.com)
