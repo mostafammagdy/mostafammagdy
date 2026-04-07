@@ -7,7 +7,7 @@ A Stella Octangula rotates inside a mandala, and both morph based on the harmoni
 
 *React, raw WebGL2, GLSL, Web Audio API, pitchy for pitch detection.*
 
-[Live demo]((https://sacred-geometry-ivory.vercel.app/)) · [Source](https://github.com/mostafammagdy/sacred-geometry)
+[Live demo](https://sacred-geometry-ivory.vercel.app/) · [Source](https://github.com/mostafammagdy/sacred-geometry)
 
 *(Pro-tip: Drop a cool GIF of the visualizer right here!)*
 
